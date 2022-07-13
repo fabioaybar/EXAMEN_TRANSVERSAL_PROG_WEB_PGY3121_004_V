@@ -1,0 +1,63 @@
+.letra1{
+    color:green;
+    display: block;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 60px;
+}
+
+
+
+.letra2{
+    color:rgb(131, 241, 233);
+    display: block;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 60px;
+}
+
+.letra4{
+    color:rgb(203, 0, 0);
+    display: block;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 60px;
+}
+
+
+
+.carousel-inner img {
+    margin: auto;
+    display:block;
+    margin-top: 20px;
+}
+
+#card-img{
+    border-radius: 50%;
+    padding-left: 10px;
+    padding-right: 25px;
+}
+
+#card-body{
+    border-radius: 10%;
+    text-align: center;
+}
+.letra3{
+    color: black
+
+}
+
+.estadoVerde{
+color:red;
+}
+
+.estadoAzul{
+color:blue;
+}
+
+.estadoPurpura{
+color:purple;
+}
